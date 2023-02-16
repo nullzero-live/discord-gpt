@@ -1,6 +1,6 @@
 # Python Discord Bot
 
-This bot allows you to speak to a Discord Bot and receive answers from the GPT-3 wealth of knowledge.
+This simple code allows you to speak to a Discord Bot and receive answers from the GPT-3 wealth of knowledge.
 
 See the Discord Developer instructions for how to configure a bot and get a token.
 
