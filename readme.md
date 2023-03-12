@@ -10,3 +10,4 @@ Create a .env file to store your TOKEN and OPENAI_KEY for import at run time. Pl
 
 
 # midmate-midjourney
+# midmate-midjourney
