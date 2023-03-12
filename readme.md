@@ -9,3 +9,4 @@ Similarly, see the OpenAI documentation to get an API Key.
 Create a .env file to store your TOKEN and OPENAI_KEY for import at run time. Please keep in mind that these will be pushed to GitHub.
 
 
+# midmate-midjourney
